@@ -295,11 +295,8 @@ footer {
   }
 
   .social-links a {
-      font-size: 1rem;
-      margin: 0 0.5rem;
-      display: inline-flex;
-      align-items: center;
-      padding: 6px;
+      margin: 0 5px;
+      font-size: 24px;
   }
 
   .social-links i:hover {
